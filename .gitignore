@@ -1,0 +1,4 @@
+#Ignore these directories
+env/
+src/
+project_structure.py
